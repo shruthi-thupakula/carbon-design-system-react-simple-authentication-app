@@ -1,4 +1,6 @@
-# WSA REACT TASK
+# Carbon Design System Framework based React App
+
+> This application is built using the carbon design system(By IBM) react framework
 
 ## Available Scripts
 
